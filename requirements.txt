@@ -1,0 +1,9 @@
+gtts
+asyncio
+datetime
+bs4
+aiohttp
+colorama
+discord
+numpy
+requests
